@@ -1,0 +1,479 @@
+GPU Memory Track | 15-Jan-20-11:29:34 | Total Used Memory:880.3  Mb
+
++ | 1 * Size:(5337, 256)          | Memory: 5.4650 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(256, 2304)          | Memory: 2.3592 M | <class 'torch.nn.parameter.Parameter'>
++ | 12 * Size:(2048, 256)          | Memory: 25.165 M | <class 'torch.nn.parameter.Parameter'>
++ | 12 * Size:(2048,)              | Memory: 0.0983 M | <class 'torch.nn.parameter.Parameter'>
++ | 12 * Size:(256, 1024)          | Memory: 12.582 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(256, 256, 3, 3)     | Memory: 2.3592 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(32, 629, 40)        | Memory: 3.2204 M | <class 'torch.Tensor'>
++ | 1 * Size:(256, 1, 3, 3)       | Memory: 0.0092 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(5337,)              | Memory: 0.0213 M | <class 'torch.nn.parameter.Parameter'>
++ | 147 * Size:(256,)               | Memory: 0.1505 M | <class 'torch.nn.parameter.Parameter'>
++ | 1 * Size:(32, 23)             | Memory: 0.0029 M | <class 'torch.Tensor'>
++ | 72 * Size:(256, 256)           | Memory: 18.874 M | <class 'torch.nn.parameter.Parameter'>
+
+At train train_one_epoch: line 140                   Total Used Memory:880.3  Mb
+
++ | 6 * Size:(32, 4, 22, 22)      | Memory: 1.4868 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 156, 156)    | Memory: 74.760 M | <class 'torch.Tensor'>
++ | 2 * Size:(1, 5000, 256)       | Memory: 10.24 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 22, 156)     | Memory: 10.543 M | <class 'torch.Tensor'>
+
+At train train_one_epoch: line 142                   Total Used Memory:880.3  Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:880.3  Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:880.3  Mb
+
++ | 36 * Size:(256, 1024)          | Memory: 37.748 M | <class 'torch.nn.parameter.Parameter'>
++ | 3 * Size:(256, 256, 3, 3)     | Memory: 7.0778 M | <class 'torch.Tensor'>
++ | 3 * Size:(256, 2304)          | Memory: 7.0778 M | <class 'torch.Tensor'>
++ | 3 * Size:(256, 1, 3, 3)       | Memory: 0.0276 M | <class 'torch.Tensor'>
++ | 36 * Size:(256, 1024)          | Memory: 37.748 M | <class 'torch.Tensor'>
++ | 3 * Size:(256, 2304)          | Memory: 7.0778 M | <class 'torch.nn.parameter.Parameter'>
++ | 3 * Size:(5337, 256)          | Memory: 16.395 M | <class 'torch.Tensor'>
++ | 3 * Size:(5337, 256)          | Memory: 16.395 M | <class 'torch.nn.parameter.Parameter'>
++ | 441 * Size:(256,)               | Memory: 0.4515 M | <class 'torch.Tensor'>
++ | 3 * Size:(256, 1, 3, 3)       | Memory: 0.0276 M | <class 'torch.nn.parameter.Parameter'>
++ | 216 * Size:(256, 256)           | Memory: 56.623 M | <class 'torch.nn.parameter.Parameter'>
++ | 36 * Size:(2048, 256)          | Memory: 75.497 M | <class 'torch.Tensor'>
++ | 216 * Size:(256, 256)           | Memory: 56.623 M | <class 'torch.Tensor'>
++ | 3 * Size:(5337,)              | Memory: 0.0640 M | <class 'torch.nn.parameter.Parameter'>
++ | 36 * Size:(2048,)              | Memory: 0.2949 M | <class 'torch.Tensor'>
++ | 3 * Size:(256, 256, 3, 3)     | Memory: 7.0778 M | <class 'torch.nn.parameter.Parameter'>
++ | 36 * Size:(2048,)              | Memory: 0.2949 M | <class 'torch.nn.parameter.Parameter'>
++ | 441 * Size:(256,)               | Memory: 0.4515 M | <class 'torch.nn.parameter.Parameter'>
++ | 36 * Size:(2048, 256)          | Memory: 75.497 M | <class 'torch.nn.parameter.Parameter'>
++ | 3 * Size:(5337,)              | Memory: 0.0640 M | <class 'torch.Tensor'>
+- | 1 * Size:(5337, 256)          | Memory: 5.4650 M | <class 'torch.nn.parameter.Parameter'> 
+- | 1 * Size:(256, 2304)          | Memory: 2.3592 M | <class 'torch.nn.parameter.Parameter'> 
+- | 12 * Size:(2048, 256)          | Memory: 25.165 M | <class 'torch.nn.parameter.Parameter'> 
+- | 72 * Size:(256, 256)           | Memory: 18.874 M | <class 'torch.nn.parameter.Parameter'> 
+- | 12 * Size:(256, 1024)          | Memory: 12.582 M | <class 'torch.nn.parameter.Parameter'> 
+- | 1 * Size:(256, 256, 3, 3)     | Memory: 2.3592 M | <class 'torch.nn.parameter.Parameter'> 
+- | 1 * Size:(256, 1, 3, 3)       | Memory: 0.0092 M | <class 'torch.nn.parameter.Parameter'> 
+- | 1 * Size:(5337,)              | Memory: 0.0213 M | <class 'torch.nn.parameter.Parameter'> 
+- | 147 * Size:(256,)               | Memory: 0.1505 M | <class 'torch.nn.parameter.Parameter'> 
+- | 12 * Size:(2048,)              | Memory: 0.0983 M | <class 'torch.nn.parameter.Parameter'> 
+
+At train train_one_epoch: line 164                   Total Used Memory:880.3  Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:880.3  Mb
+
++ | 1 * Size:(32, 689, 40)        | Memory: 3.5276 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 31)             | Memory: 0.0039 M | <class 'torch.Tensor'>
+- | 1 * Size:(32, 23)             | Memory: 0.0029 M | <class 'torch.Tensor'> 
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 629, 40)        | Memory: 3.2204 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:880.3  Mb
+
++ | 6 * Size:(32, 4, 171, 171)    | Memory: 89.828 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 30, 171)     | Memory: 15.759 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 30, 30)      | Memory: 2.7648 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 22, 156)     | Memory: 10.543 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 22, 22)      | Memory: 1.4868 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 156, 156)    | Memory: 74.760 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:880.3  Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:880.3  Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:414.7  Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:716.7  Mb
+
++ | 1 * Size:(32, 35)             | Memory: 0.0044 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 1107, 40)       | Memory: 5.6678 M | <class 'torch.Tensor'>
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 689, 40)        | Memory: 3.5276 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 31)             | Memory: 0.0039 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 6 * Size:(32, 4, 34, 276)     | Memory: 28.827 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 34, 34)      | Memory: 3.5512 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 276, 276)    | Memory: 234.01 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 171, 171)    | Memory: 89.828 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 30, 171)     | Memory: 15.759 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 30, 30)      | Memory: 2.7648 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:0.0    Mb
+
++ | 1 * Size:(32, 698, 40)        | Memory: 3.5737 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 23)             | Memory: 0.0029 M | <class 'torch.Tensor'>
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 35)             | Memory: 0.0044 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 1107, 40)       | Memory: 5.6678 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 6 * Size:(32, 4, 173, 173)    | Memory: 91.941 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 22, 22)      | Memory: 1.4868 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 22, 173)     | Memory: 11.692 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 34, 276)     | Memory: 28.827 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 34, 34)      | Memory: 3.5512 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 276, 276)    | Memory: 234.01 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:0.0    Mb
+
++ | 1 * Size:(32, 69)             | Memory: 0.0088 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 2181, 40)       | Memory: 11.166 M | <class 'torch.Tensor'>
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 698, 40)        | Memory: 3.5737 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 23)             | Memory: 0.0029 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 6 * Size:(32, 4, 68, 68)      | Memory: 14.204 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 68, 544)     | Memory: 113.63 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 544, 544)    | Memory: 909.11 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 173, 173)    | Memory: 91.941 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 22, 22)      | Memory: 1.4868 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 22, 173)     | Memory: 11.692 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:0.0    Mb
+
++ | 1 * Size:(32, 1039, 40)       | Memory: 5.3196 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 35)             | Memory: 0.0044 M | <class 'torch.Tensor'>
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 69)             | Memory: 0.0088 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 2181, 40)       | Memory: 11.166 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 6 * Size:(32, 4, 34, 34)      | Memory: 3.5512 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 34, 259)     | Memory: 27.052 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 259, 259)    | Memory: 206.07 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 68, 68)      | Memory: 14.204 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 68, 544)     | Memory: 113.63 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 544, 544)    | Memory: 909.11 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:0.0    Mb
+
++ | 1 * Size:(32, 810, 40)        | Memory: 4.1472 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 25)             | Memory: 0.0032 M | <class 'torch.Tensor'>
+- | 1 * Size:(32, 1039, 40)       | Memory: 5.3196 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 35)             | Memory: 0.0044 M | <class 'torch.Tensor'> 
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 6 * Size:(32, 4, 24, 24)      | Memory: 1.7694 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 201, 201)    | Memory: 124.11 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 24, 201)     | Memory: 14.819 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 34, 34)      | Memory: 3.5512 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 34, 259)     | Memory: 27.052 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 259, 259)    | Memory: 206.07 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:0.0    Mb
+
++ | 1 * Size:(32, 19)             | Memory: 0.0024 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 757, 40)        | Memory: 3.8758 M | <class 'torch.Tensor'>
+- | 1 * Size:(32, 810, 40)        | Memory: 4.1472 M | <class 'torch.Tensor'> 
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 25)             | Memory: 0.0032 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 6 * Size:(32, 4, 188, 188)    | Memory: 108.57 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 18, 18)      | Memory: 0.9953 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 18, 188)     | Memory: 10.395 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 24, 24)      | Memory: 1.7694 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 201, 201)    | Memory: 124.11 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 24, 201)     | Memory: 14.819 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:0.0    Mb
+
++ | 1 * Size:(32, 26)             | Memory: 0.0033 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 894, 40)        | Memory: 4.5772 M | <class 'torch.Tensor'>
+- | 1 * Size:(32, 19)             | Memory: 0.0024 M | <class 'torch.Tensor'> 
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 757, 40)        | Memory: 3.8758 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 6 * Size:(32, 4, 25, 25)      | Memory: 1.92 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 222, 222)    | Memory: 151.40 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 25, 222)     | Memory: 17.049 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 188, 188)    | Memory: 108.57 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 18, 18)      | Memory: 0.9953 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 18, 188)     | Memory: 10.395 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:0.0    Mb
+
++ | 1 * Size:(32, 1278, 40)       | Memory: 6.5433 M | <class 'torch.Tensor'>
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 894, 40)        | Memory: 4.5772 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 6 * Size:(32, 4, 25, 318)     | Memory: 24.422 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 318, 318)    | Memory: 310.65 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 222, 222)    | Memory: 151.40 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 25, 222)     | Memory: 17.049 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:0.0    Mb
+
++ | 1 * Size:(32, 920, 40)        | Memory: 4.7104 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 22)             | Memory: 0.0028 M | <class 'torch.Tensor'>
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 1278, 40)       | Memory: 6.5433 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 26)             | Memory: 0.0033 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 6 * Size:(32, 4, 21, 229)     | Memory: 14.773 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 229, 229)    | Memory: 161.09 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 21, 21)      | Memory: 1.3547 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 25, 318)     | Memory: 24.422 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 318, 318)    | Memory: 310.65 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 25, 25)      | Memory: 1.92 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:0.0    Mb
+
++ | 1 * Size:(32, 42)             | Memory: 0.0053 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 1124, 40)       | Memory: 5.7548 M | <class 'torch.Tensor'>
+- | 1 * Size:(32, 920, 40)        | Memory: 4.7104 M | <class 'torch.Tensor'> 
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 22)             | Memory: 0.0028 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 6 * Size:(32, 4, 41, 280)     | Memory: 35.266 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 280, 280)    | Memory: 240.84 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 41, 41)      | Memory: 5.1640 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 21, 229)     | Memory: 14.773 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 229, 229)    | Memory: 161.09 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 21, 21)      | Memory: 1.3547 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:305.7  Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:880.3  Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:880.3  Mb
+
++ | 1 * Size:(32, 809, 40)        | Memory: 4.1420 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 26)             | Memory: 0.0033 M | <class 'torch.Tensor'>
+- | 1 * Size:(32, 42)             | Memory: 0.0053 M | <class 'torch.Tensor'> 
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 1124, 40)       | Memory: 5.7548 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:880.3  Mb
+
++ | 6 * Size:(32, 4, 201, 201)    | Memory: 124.11 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 25, 201)     | Memory: 15.436 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 25, 25)      | Memory: 1.92 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 41, 280)     | Memory: 35.266 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 280, 280)    | Memory: 240.84 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 41, 41)      | Memory: 5.1640 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:880.3  Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:880.3  Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:880.3  Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:880.3  Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:880.3  Mb
+
++ | 1 * Size:(32, 903, 40)        | Memory: 4.6233 M | <class 'torch.Tensor'>
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 809, 40)        | Memory: 4.1420 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 25, 225)     | Memory: 17.28 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 225, 225)    | Memory: 155.52 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 201, 201)    | Memory: 124.11 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 25, 201)     | Memory: 15.436 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:0.0    Mb
+
++ | 1 * Size:(32, 766, 40)        | Memory: 3.9219 M | <class 'torch.Tensor'>
++ | 1 * Size:(32, 25)             | Memory: 0.0032 M | <class 'torch.Tensor'>
+- | 1 * Size:(32, 903, 40)        | Memory: 4.6233 M | <class 'torch.Tensor'> 
+- | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'> 
+- | 1 * Size:(32, 26)             | Memory: 0.0033 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 140                   Total Used Memory:0.0    Mb
+
++ | 6 * Size:(32, 4, 190, 190)    | Memory: 110.89 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 24, 24)      | Memory: 1.7694 M | <class 'torch.Tensor'>
++ | 1 * Size:()                   | Memory: 4e-06 M | <class 'torch.Tensor'>
++ | 6 * Size:(32, 4, 24, 190)     | Memory: 14.008 M | <class 'torch.Tensor'>
+- | 6 * Size:(32, 4, 25, 225)     | Memory: 17.28 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 25, 25)      | Memory: 1.92 M | <class 'torch.Tensor'> 
+- | 6 * Size:(32, 4, 225, 225)    | Memory: 155.52 M | <class 'torch.Tensor'> 
+
+At train train_one_epoch: line 142                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 150                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 155                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 164                   Total Used Memory:0.0    Mb
+
+
+At train train_one_epoch: line 166                   Total Used Memory:0.0    Mb
+
